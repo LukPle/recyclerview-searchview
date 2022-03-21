@@ -9,7 +9,10 @@ It is possible to search for specific items in the list by using a **SearchView*
 
 ## Features
 The setting for this example is a shopping list. An ArrayList contains different items that need to be purchased. The items have a name and quantity.
-The user can search for specific items via text in a search field.
+The user can search for specific items via text in a search field. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
